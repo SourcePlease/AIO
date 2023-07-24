@@ -1,1 +1,1 @@
-FROM
+FROM maxzone/sprc:spfp
