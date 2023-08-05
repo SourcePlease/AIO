@@ -1,1 +1,1 @@
-FROM maxzone/sprc:spfp
+FROM maxzone/zmzmo:latest
