@@ -1,1 +1,1 @@
-FROM maxzone/zmzmo:latest
+FROM maxzone/spxwzmlh:latest
