@@ -1,1 +1,2 @@
-FROM maxzone/spxwzmlh:latest
+#FROM maxzone/spxwzmlh:latest
+FROM tgbot/urlup:latest
